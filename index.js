@@ -28,7 +28,12 @@ function currentLine(katzDeli){
     }
   }
 
-
+function redDeliWheel(x){
+  var dailyCount = 0
+  for (let i =0; i {
+  
+  }
+}
 
 
 
