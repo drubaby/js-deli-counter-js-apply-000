@@ -28,11 +28,10 @@ function currentLine(katzDeli){
     }
   }
 
-function redDeliWheel(x){
+function redDeliWheel(counter){
   var dailyCount = 0
-  for (let i =0; i {
-  
-  }
+  dailyCount += 1;
+  return dailyCount;
 }
 
 
