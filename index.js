@@ -29,8 +29,9 @@ function currentLine(katzDeli){
   }
 
 function redDeliWheel(counter){
-  var dailyCount = 0
-  dailyCount += 1;
+  for (let i=0; i<100; i++){
+  var dailyCount = 
+  dailyCount += 1;}
   return dailyCount;
 }
 
